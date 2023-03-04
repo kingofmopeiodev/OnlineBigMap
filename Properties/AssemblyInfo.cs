@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("OnlineBigMap")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("A small and simple script that adds the big map from GTA Online.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Mechagun")]
 [assembly: AssemblyProduct("OnlineBigMap")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
