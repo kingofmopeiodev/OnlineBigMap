@@ -45,7 +45,8 @@ namespace OnlineBigMap
                 {
                     Function.Call(Hash.SET_BIGMAP_ACTIVE, false, false);
                     bigMapActive = false;
-                    MapCounter = null;
+                    MapCounter.Reset();
+                    MapCounter = new Counter(5);
                 }
             }
         }
